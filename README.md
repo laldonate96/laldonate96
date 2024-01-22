@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Lucas
-- 👀 I’m interested in backend development, data science and machine learning
-- 🏫 I’m currently learning node, react and go
+- 👀 I’m interested in backend development, data science and blockchain
 - 🎆 I’m looking to collaborate on captivating and interesting projects!
 - 📫 Reach me at: lucasaldonate@gmail.com
