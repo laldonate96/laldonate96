@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Lucas
-- 👀 I’m interested in backend development, data science and blockchain
+- 👀 I’m interested in backend and blockchain development
 - 🎆 I’m looking to collaborate on captivating and interesting projects!
-- 📫 Reach me at: lucasaldonate@gmail.com
+- 📓 Portfolio (WIP): https://laldona.tech
