@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in backend and blockchain development
 - 🎆 I’m looking to collaborate on captivating and interesting projects!
-- 📓 Portfolio (WIP): https://laldona.tech
